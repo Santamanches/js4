@@ -1,0 +1,20 @@
+body {
+    background: cadetblue;
+}
+a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.ad {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
